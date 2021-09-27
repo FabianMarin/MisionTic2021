@@ -1,0 +1,9 @@
+C:\Agendamiento\AgendamientoIps.App\AgendamientoIps.App.Dominio\bin\Debug\netstandard2.0\AgendamientoIps.App.Dominio.deps.json
+C:\Agendamiento\AgendamientoIps.App\AgendamientoIps.App.Dominio\bin\Debug\netstandard2.0\AgendamientoIps.App.Dominio.dll
+C:\Agendamiento\AgendamientoIps.App\AgendamientoIps.App.Dominio\bin\Debug\netstandard2.0\AgendamientoIps.App.Dominio.pdb
+C:\Agendamiento\AgendamientoIps.App\AgendamientoIps.App.Dominio\obj\Debug\netstandard2.0\AgendamientoIps.App.Dominio.csprojAssemblyReference.cache
+C:\Agendamiento\AgendamientoIps.App\AgendamientoIps.App.Dominio\obj\Debug\netstandard2.0\AgendamientoIps.App.Dominio.AssemblyInfoInputs.cache
+C:\Agendamiento\AgendamientoIps.App\AgendamientoIps.App.Dominio\obj\Debug\netstandard2.0\AgendamientoIps.App.Dominio.AssemblyInfo.cs
+C:\Agendamiento\AgendamientoIps.App\AgendamientoIps.App.Dominio\obj\Debug\netstandard2.0\AgendamientoIps.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Agendamiento\AgendamientoIps.App\AgendamientoIps.App.Dominio\obj\Debug\netstandard2.0\AgendamientoIps.App.Dominio.dll
+C:\Agendamiento\AgendamientoIps.App\AgendamientoIps.App.Dominio\obj\Debug\netstandard2.0\AgendamientoIps.App.Dominio.pdb
