@@ -7,3 +7,12 @@ C:\Agendamiento\AgendamientoIps.App\AgendamientoIps.App.Dominio\obj\Debug\netsta
 C:\Agendamiento\AgendamientoIps.App\AgendamientoIps.App.Dominio\obj\Debug\netstandard2.0\AgendamientoIps.App.Dominio.csproj.CoreCompileInputs.cache
 C:\Agendamiento\AgendamientoIps.App\AgendamientoIps.App.Dominio\obj\Debug\netstandard2.0\AgendamientoIps.App.Dominio.dll
 C:\Agendamiento\AgendamientoIps.App\AgendamientoIps.App.Dominio\obj\Debug\netstandard2.0\AgendamientoIps.App.Dominio.pdb
+C:\Users\ASUS AMD A12\Documents\VS code ciclo 3\MisionTic2021\AgendamientoIps.App.Dominio\bin\Debug\netstandard2.0\AgendamientoIps.App.Dominio.deps.json
+C:\Users\ASUS AMD A12\Documents\VS code ciclo 3\MisionTic2021\AgendamientoIps.App.Dominio\bin\Debug\netstandard2.0\AgendamientoIps.App.Dominio.dll
+C:\Users\ASUS AMD A12\Documents\VS code ciclo 3\MisionTic2021\AgendamientoIps.App.Dominio\bin\Debug\netstandard2.0\AgendamientoIps.App.Dominio.pdb
+C:\Users\ASUS AMD A12\Documents\VS code ciclo 3\MisionTic2021\AgendamientoIps.App.Dominio\obj\Debug\netstandard2.0\AgendamientoIps.App.Dominio.csprojAssemblyReference.cache
+C:\Users\ASUS AMD A12\Documents\VS code ciclo 3\MisionTic2021\AgendamientoIps.App.Dominio\obj\Debug\netstandard2.0\AgendamientoIps.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\ASUS AMD A12\Documents\VS code ciclo 3\MisionTic2021\AgendamientoIps.App.Dominio\obj\Debug\netstandard2.0\AgendamientoIps.App.Dominio.AssemblyInfo.cs
+C:\Users\ASUS AMD A12\Documents\VS code ciclo 3\MisionTic2021\AgendamientoIps.App.Dominio\obj\Debug\netstandard2.0\AgendamientoIps.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\ASUS AMD A12\Documents\VS code ciclo 3\MisionTic2021\AgendamientoIps.App.Dominio\obj\Debug\netstandard2.0\AgendamientoIps.App.Dominio.dll
+C:\Users\ASUS AMD A12\Documents\VS code ciclo 3\MisionTic2021\AgendamientoIps.App.Dominio\obj\Debug\netstandard2.0\AgendamientoIps.App.Dominio.pdb

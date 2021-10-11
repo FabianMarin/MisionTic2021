@@ -5796,19 +5796,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Elkin David\\.nuget\\packages\\": {}
+    "C:\\Users\\ASUS AMD A12\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Agendamiento\\AgendamientoIps.App\\AgendamientoIps.App.Consola\\AgendamientoIps.App.Consola.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS AMD A12\\Documents\\VS code ciclo 3\\MisionTic2021\\AgendamientoIps.App.Consola\\AgendamientoIps.App.Consola.csproj",
       "projectName": "AgendamientoIps.App.Consola",
-      "projectPath": "C:\\Agendamiento\\AgendamientoIps.App\\AgendamientoIps.App.Consola\\AgendamientoIps.App.Consola.csproj",
-      "packagesPath": "C:\\Users\\Elkin David\\.nuget\\packages\\",
-      "outputPath": "C:\\Agendamiento\\AgendamientoIps.App\\AgendamientoIps.App.Consola\\obj\\",
+      "projectPath": "C:\\Users\\ASUS AMD A12\\Documents\\VS code ciclo 3\\MisionTic2021\\AgendamientoIps.App.Consola\\AgendamientoIps.App.Consola.csproj",
+      "packagesPath": "C:\\Users\\ASUS AMD A12\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ASUS AMD A12\\Documents\\VS code ciclo 3\\MisionTic2021\\AgendamientoIps.App.Consola\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Elkin David\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\ASUS AMD A12\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -5819,8 +5819,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Agendamiento\\AgendamientoIps.App\\AgendamientoIps.App.Persistencia\\AgendamientoIps.App.Persistencia.csproj": {
-              "projectPath": "C:\\Agendamiento\\AgendamientoIps.App\\AgendamientoIps.App.Persistencia\\AgendamientoIps.App.Persistencia.csproj"
+            "C:\\Users\\ASUS AMD A12\\Documents\\VS code ciclo 3\\MisionTic2021\\AgendamientoIps.App.Persistencia\\AgendamientoIps.App.Persistencia.csproj": {
+              "projectPath": "C:\\Users\\ASUS AMD A12\\Documents\\VS code ciclo 3\\MisionTic2021\\AgendamientoIps.App.Persistencia\\AgendamientoIps.App.Persistencia.csproj"
             }
           }
         }
@@ -5856,7 +5856,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.413\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.412\\RuntimeIdentifierGraph.json"
       }
     }
   }

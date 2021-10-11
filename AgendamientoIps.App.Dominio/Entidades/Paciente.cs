@@ -6,10 +6,10 @@ namespace AgendamientoIps.App.Dominio
     /// </summary> 
     public class Paciente:Persona
     {
-        public Eps Eps {get;set;}
-        public Sintomas Sintomas {get;set;}
+        public Id id {get;set;}
         public SedeIps SedeIps {get;set;}
-        public bool Agendado {get;set;}
-        public bool Convenio {get;set;}
+        public String Ciudad{get;set;}
+        public Genero genero{get;set;}
+
     }
 }

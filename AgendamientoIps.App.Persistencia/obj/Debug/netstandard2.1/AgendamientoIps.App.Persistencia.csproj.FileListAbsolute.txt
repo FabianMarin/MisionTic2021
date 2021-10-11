@@ -10,3 +10,15 @@ C:\Agendamiento\AgendamientoIps.App\AgendamientoIps.App.Persistencia\bin\Debug\n
 C:\Agendamiento\AgendamientoIps.App\AgendamientoIps.App.Persistencia\obj\Debug\netstandard2.1\AgendamientoIps.App.Persistencia.csproj.CopyComplete
 C:\Agendamiento\AgendamientoIps.App\AgendamientoIps.App.Persistencia\obj\Debug\netstandard2.1\AgendamientoIps.App.Persistencia.dll
 C:\Agendamiento\AgendamientoIps.App\AgendamientoIps.App.Persistencia\obj\Debug\netstandard2.1\AgendamientoIps.App.Persistencia.pdb
+C:\Users\ASUS AMD A12\Documents\VS code ciclo 3\MisionTic2021\AgendamientoIps.App.Persistencia\bin\Debug\netstandard2.1\AgendamientoIps.App.Persistencia.deps.json
+C:\Users\ASUS AMD A12\Documents\VS code ciclo 3\MisionTic2021\AgendamientoIps.App.Persistencia\bin\Debug\netstandard2.1\AgendamientoIps.App.Persistencia.dll
+C:\Users\ASUS AMD A12\Documents\VS code ciclo 3\MisionTic2021\AgendamientoIps.App.Persistencia\bin\Debug\netstandard2.1\AgendamientoIps.App.Persistencia.pdb
+C:\Users\ASUS AMD A12\Documents\VS code ciclo 3\MisionTic2021\AgendamientoIps.App.Persistencia\bin\Debug\netstandard2.1\AgendamientoIps.App.Dominio.dll
+C:\Users\ASUS AMD A12\Documents\VS code ciclo 3\MisionTic2021\AgendamientoIps.App.Persistencia\bin\Debug\netstandard2.1\AgendamientoIps.App.Dominio.pdb
+C:\Users\ASUS AMD A12\Documents\VS code ciclo 3\MisionTic2021\AgendamientoIps.App.Persistencia\obj\Debug\netstandard2.1\AgendamientoIps.App.Persistencia.csprojAssemblyReference.cache
+C:\Users\ASUS AMD A12\Documents\VS code ciclo 3\MisionTic2021\AgendamientoIps.App.Persistencia\obj\Debug\netstandard2.1\AgendamientoIps.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\ASUS AMD A12\Documents\VS code ciclo 3\MisionTic2021\AgendamientoIps.App.Persistencia\obj\Debug\netstandard2.1\AgendamientoIps.App.Persistencia.AssemblyInfo.cs
+C:\Users\ASUS AMD A12\Documents\VS code ciclo 3\MisionTic2021\AgendamientoIps.App.Persistencia\obj\Debug\netstandard2.1\AgendamientoIps.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\ASUS AMD A12\Documents\VS code ciclo 3\MisionTic2021\AgendamientoIps.App.Persistencia\obj\Debug\netstandard2.1\AgendamientoIps.App.Persistencia.csproj.CopyComplete
+C:\Users\ASUS AMD A12\Documents\VS code ciclo 3\MisionTic2021\AgendamientoIps.App.Persistencia\obj\Debug\netstandard2.1\AgendamientoIps.App.Persistencia.dll
+C:\Users\ASUS AMD A12\Documents\VS code ciclo 3\MisionTic2021\AgendamientoIps.App.Persistencia\obj\Debug\netstandard2.1\AgendamientoIps.App.Persistencia.pdb

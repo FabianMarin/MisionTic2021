@@ -8,6 +8,9 @@ namespace AgendamientoIps.App.Dominio
         Pereira,
         Manizales,
         Armenia,
-        Medellin
+        Medellin,
+        Armero,
+        Cali,
+        
     }
 }

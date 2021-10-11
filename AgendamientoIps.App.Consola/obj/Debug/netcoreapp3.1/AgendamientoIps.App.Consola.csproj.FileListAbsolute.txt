@@ -66,3 +66,5 @@ C:\Agendamiento\AgendamientoIps.App\AgendamientoIps.App.Consola\obj\Debug\netcor
 C:\Agendamiento\AgendamientoIps.App\AgendamientoIps.App.Consola\obj\Debug\netcoreapp3.1\AgendamientoIps.App.Consola.dll
 C:\Agendamiento\AgendamientoIps.App\AgendamientoIps.App.Consola\obj\Debug\netcoreapp3.1\AgendamientoIps.App.Consola.pdb
 C:\Agendamiento\AgendamientoIps.App\AgendamientoIps.App.Consola\obj\Debug\netcoreapp3.1\AgendamientoIps.App.Consola.genruntimeconfig.cache
+C:\Users\ASUS AMD A12\Documents\VS code ciclo 3\MisionTic2021\AgendamientoIps.App.Consola\obj\Debug\netcoreapp3.1\AgendamientoIps.App.Consola.dll
+C:\Users\ASUS AMD A12\Documents\VS code ciclo 3\MisionTic2021\AgendamientoIps.App.Consola\obj\Debug\netcoreapp3.1\AgendamientoIps.App.Consola.pdb

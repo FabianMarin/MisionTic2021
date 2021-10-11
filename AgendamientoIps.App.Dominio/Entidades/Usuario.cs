@@ -5,7 +5,7 @@ namespace AgendamientoIps.App.Dominio
     {
         public int Id{get;set;}
         public string User{get;set;}
-        public string Pass{get;set;}
+        public string Password{get;set;}
         public DateTime LastUpdate{get;set;}
     }
 }

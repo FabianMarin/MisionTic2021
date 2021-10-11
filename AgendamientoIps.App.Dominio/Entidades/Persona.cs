@@ -7,7 +7,6 @@ namespace AgendamientoIps.App.Dominio
     public class Persona
     {
         public int Id { get; set; }
-        public TipoDocumento TipoDocumento { get; set; }
         public string NumeroDocumento { get; set;}
         public string Nombre {get;set;}
         public string Apellido {get;set;}
@@ -17,7 +16,6 @@ namespace AgendamientoIps.App.Dominio
         public string Email {get;set;}
         public Ciudad Ciudad{get;set;}
         public int Edad{get;set;}
-        public string FechaNacimiento{get;set;}
-        public DateTime TimeStamp {get;set;}
+   
     }
 }
